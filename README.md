@@ -2,7 +2,7 @@
 ## Are we pu(ni)shing [?!]
 ### No, i'm stupid >_<
 
-_At least markup is working, right?_
+_At least syntax is working, right?_
 
 **Here is some nice pic for motivation**
 ![nice pic for my motivation](https://github.com/Leesmike/Piata/blob/main/Phantasy.Star.Series.full.jpg)
